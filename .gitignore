@@ -1,0 +1,5 @@
+model/*
+/.ipynb_checkpoints/*
+proposal/.ipynb_checkpoints/*
+report/.ipynb_checkpoints/*
+report/images/
